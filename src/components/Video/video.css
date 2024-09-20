@@ -1,0 +1,27 @@
+.wrap-item,
+.item {
+  width: 430px;
+  margin: 10px;
+  padding: 10px 10px 1px;
+  background: #000000;
+}
+
+.item-video iframe {
+  display: block;
+  margin: 0 auto;
+  width: 430px;
+  height: 240px;
+  border: none;
+}
+
+.item .views {
+  margin: 6px 0 0 0;
+  text-align: right;
+  font-size: 80%;
+  color: #cccccc;
+}
+
+.wrap-item {
+  position: relative;
+  height: 260px;
+}
